@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px"> I'm Ethan
+### Hi there 👋 I'm Ethan
 
 I'm a student from London, who loves learning new things.
 
