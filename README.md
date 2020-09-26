@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Ethan
 
-I'm a student in London, who loves learning new things.
+I'm a student from London, who loves learning new things.
 
 - 📱 I’m currently working on [Pluvia, a FOSS weather app](https://github.com/SpicyChair/pluvia_weather_flutter), with Flutter
 - 🌱 I’m currently learning Mobile App Development with Flutter and Dart
 - 🎯 I have experience with Java, Dart and Python
-- 👨‍💻 I started programming in April 2020 with Java
+- 👨‍💻 I started programming in April 2020, with Java
 - 📫 Reach me on Twitter: [@spicychair](https://twitter.com/spicychair)
