@@ -6,4 +6,4 @@ I'm a student in London, who loves learning new things.
 - 🌱 I’m currently learning Mobile App Development with Flutter and Dart
 - 🎯 I have experience with Java, Dart and Python
 - 👨‍💻 I started programming in April 2020 with Java
-- 📫 Reach me on Twitter [@spicychair](https://twitter.com/spicychair)
+- 📫 Reach me on Twitter: [@spicychair](https://twitter.com/spicychair)
