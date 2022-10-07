@@ -2,7 +2,7 @@
 
 I'm a student from London, UK, who loves programming and learning new things.
 
-- 🌦 I’m currently working on [Pluvia, a FOSS weather app](https://github.com/SpicyChair/pluvia_weather_flutter), with Flutter
-- 🌱 I’m currently learning Mobile App Development with Flutter and Dart
+- 🧑‍💻 I’m working on [Pluvia Weather 🌦](https://github.com/SpicyChair/pluvia_weather_flutter) and [TimeBlock ⏰](https://github.com/SpicyChair/pluvia_weather_flutter), using Flutter
+- 🌱 I’m currently learning iOS App Development with SwiftUI
 - 🎯 I have experience with Java, Python, Flutter and SwiftUI
 - 📫 Reach me on Twitter: [@spicychair](https://twitter.com/spicychair)
